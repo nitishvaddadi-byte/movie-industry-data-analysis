@@ -35,6 +35,17 @@ This project analyzes movie industry data to identify key factors influencing pr
 * Monthly performance analysis
 * Correlation heatmap
 
+## 📊 Sample Visualizations
+
+### Budget vs Revenue
+![Scatter Plot](images/scatter.png)
+
+### Genre Analysis
+![Genre Chart](images/genre.png)
+
+### Correlation Heatmap
+![Heatmap](images/heatmap.png)
+
 ## 💡 Key Insights
 
 * High-budget movies generate higher revenue but not always higher profit
